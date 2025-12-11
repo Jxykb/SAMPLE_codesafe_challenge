@@ -33,18 +33,34 @@ Story Points: 3
 Point Rationale: This should be a strightforward and general string class implementation with error checking capabilities
 
 Use Case Name | Complete Software and Secuirty Realted challenges
+
 Author        | Jakob Groh
+
 Priority      | Critical
+
 Source        | 10/14/25
+
 Short Desc.   | A student can complete this string class challenge by writing code in the VS code environment and pass all test cases
+
 Goals         | Allows students to practice and master string parsing skills for software development
+
 Primary Actor | Student
+
 Secondary     | N.A
+
 Preconditions | The student is loged in and selected the respective challenge
+
 Succes End    | All test cases pass and the completed flag is generated
+
 Failed End    | Test cases fail or arent run
+
 Trigger       | The student selects and then clicks start on this specific challenge
+
 Basic Flow    | Student selects this challenge from the string module, system load the built in environment and the starter code, the system verifies all tets cases pass. the system marks the challenge as complete and provides the flag
+
 Alternate     | Student leaves the challenge before finishing in which the students progress is saved
+
 Sup Info      | Assumed there is already a string module 
+
 Open Issues   | How many functions should the user implement, even though theyre simple is this too much?
+
